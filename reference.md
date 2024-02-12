@@ -30,12 +30,12 @@
 
 ## Blogs
 - [Martin Fowler's blog](https://martinfowler.com/)
-- [refactoring.guru](https://refactoring.guru/] - Design patterns
+- [refactoring.guru](https://refactoring.guru/) - Design patterns
 - [Stop using hibernate (Laurent Stemmer)](https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/)
 
 
 ## Podcasts
-
+- [Artisan développeur (Benoit Gantaume)](https://podcast.ausha.co/artisan-developpeur) 
 
 ## Books
 - Clean code - Robert C. Martin - 2008 (disponible en VF)
