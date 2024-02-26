@@ -32,6 +32,7 @@
 - [Martin Fowler's blog](https://martinfowler.com/)
 - [refactoring.guru](https://refactoring.guru/) - Design patterns
 - [Stop using hibernate (Laurent Stemmer)](https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/)
+- [Netflix TechBlog](https://netflixtechblog.com/)
 
 
 ## Podcasts
