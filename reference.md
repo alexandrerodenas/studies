@@ -26,6 +26,7 @@
 - [DEVOXX - Observabilité : mythes, réalité et Chaos (B. Gakic)](https://www.youtube.com/watch?v=lV7zTJJOx1Y) - 45min
 - [NoEstimate (Frédéric Leguédois)](https://www.youtube.com/watch?v=hy87q2kZ6y8) - 1h40
 - [Agile Grenoble 2019 - Et si on redémarrait l'agilité ? (Arnaud Lemaire)](https://www.youtube.com/watch?v=sZbmP0JZHBs) - 45min
+- [JOOQ, joy of SQL (Kevin Davin)](https://www.youtube.com/watch?v=5m_oE0iPJJE)  45min
 
 
 ## Blogs
