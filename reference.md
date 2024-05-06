@@ -28,6 +28,9 @@
 - [Agile Grenoble 2019 - Et si on redémarrait l'agilité ? (Arnaud Lemaire)](https://www.youtube.com/watch?v=sZbmP0JZHBs) - 45min
 - [JOOQ, joy of SQL (Kevin Davin)](https://www.youtube.com/watch?v=5m_oE0iPJJE)  45min
 
+### Tests
+- [Outside-in Diamond pour écrire des tests Antifragiles & orientés métier - Thomas Pierrain
+](https://www.youtube.com/watch?v=09R8ROv3aKU&ab_channel=MaltFrance) - 1h15
 
 ## Blogs
 - [Martin Fowler's blog](https://martinfowler.com/)
