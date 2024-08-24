@@ -8,3 +8,4 @@
 - [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
 - [Principle of Least Astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment)
 - [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+- [Prefer Immutability](https://medium.com/@bubu.tripathy/clean-code-favor-immutable-over-mutable-state-b22fb9442e61)
