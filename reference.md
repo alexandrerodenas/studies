@@ -53,3 +53,5 @@
 - Clean Architecture - Robert C. Martin - 2020 (disponible en VF)
 - Refactoring: Improving the Design of Existing Code (2nd Edition) - Martin Fowler - 2018
 - Clean Craftsmanship: Disciplines, Standards, and Ethics - Robert C. Martin - 2021 (disponible en VF)
+- Naming things - Tom Benner
+- Hexagonal architecture explained - Alistair Cockburn / Juan Manuel Garrido de Paz
