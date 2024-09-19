@@ -2,6 +2,7 @@
 
 ## Orienté craft
 - [Michael Azerhad](https://www.linkedin.com/in/michael-azerhad/?originalSubdomain=fr)
+- [Anthony Cyrille](https://fr.linkedin.com/in/anthony-cyrille)
 - [Benoit Gantaume](https://www.linkedin.com/in/benoitgantaume/) - [Anime le blog artisan développeur](https://artisandeveloppeur.fr/)
 - [Martin Fowler](https://martinfowler.com/)
 - [Robert C. Martin](http://cleancoder.com/products)
@@ -42,7 +43,7 @@
 - [refactoring.guru](https://refactoring.guru/) - Design patterns
 - [Stop using hibernate (Laurent Stemmer)](https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/)
 - [Netflix TechBlog](https://netflixtechblog.com/)
-
+- [OOP rules](https://cln.co/)
 
 ## Podcasts
 - [Artisan développeur (Benoit Gantaume)](https://podcast.ausha.co/artisan-developpeur) 
