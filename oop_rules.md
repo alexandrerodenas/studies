@@ -10,3 +10,4 @@
 - [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 - [Prefer Immutability](https://medium.com/@bubu.tripathy/clean-code-favor-immutable-over-mutable-state-b22fb9442e61)
 - [Orthogonality](https://medium.com/@jasoncof/cohesion-and-coupling-principles-of-orthogonal-object-oriented-programming-9bf1eb92a2e5)
+- [Primitive Obsession](https://refactoring.guru/fr/smells/primitive-obsession)
