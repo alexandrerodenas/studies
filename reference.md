@@ -31,12 +31,18 @@
 ### Programation fonctionelle
 - [Tout ce que vous avez toujours voulus savoir sur la programmation fonctionnelle (X. Detant)](https://www.youtube.com/watch?v=YZwilQqzdYA&ab_channel=DevoxxFR)  - 45min
 
+### Java
+- [Ce que les Threads Virtuels apportent à la programmation asynchrone](https://www.youtube.com/watch?v=WpwSw_b4VCM)
+
 ### Jooq
 - [JOOQ, joy of SQL (Kevin Davin)](https://www.youtube.com/watch?v=5m_oE0iPJJE)  45min
 
 ### Tests
 - [Outside-in Diamond pour écrire des tests Antifragiles & orientés métier - Thomas Pierrain
 ](https://www.youtube.com/watch?v=09R8ROv3aKU&ab_channel=MaltFrance) - 1h15
+
+### Craft
+- [Modéliser votre domaine métier grâce aux types - Jordane Grenat (Comet)](https://www.youtube.com/watch?v=A6pFGessKZM)
 
 ## Blogs
 - [Martin Fowler's blog](https://martinfowler.com/)
@@ -56,3 +62,4 @@
 - Clean Craftsmanship: Disciplines, Standards, and Ethics - Robert C. Martin - 2021 (disponible en VF)
 - Naming things - Tom Benner
 - Hexagonal architecture explained - Alistair Cockburn / Juan Manuel Garrido de Paz
+- The Pragmatic Programmer - David Thomas and Andrew Hunt (disponible en VF)
