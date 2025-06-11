@@ -40,6 +40,7 @@
 ### Tests
 - [Outside-in Diamond pour écrire des tests Antifragiles & orientés métier - Thomas Pierrain
 ](https://www.youtube.com/watch?v=09R8ROv3aKU&ab_channel=MaltFrance) - 1h15
+- [Essentials - Tests Unitaires](https://courses.ancyracademy.fr/courses/enrolled/2284824) - 2h/3h Formation par Anthony Cyrille
 
 ### Craft
 - [Modéliser votre domaine métier grâce aux types - Jordane Grenat (Comet)](https://www.youtube.com/watch?v=A6pFGessKZM)
@@ -63,3 +64,4 @@
 - Naming things - Tom Benner
 - Hexagonal architecture explained - Alistair Cockburn / Juan Manuel Garrido de Paz
 - The Pragmatic Programmer - David Thomas and Andrew Hunt (disponible en VF)
+- Implementing Domain-Driven Design - Vaughn Vernon
