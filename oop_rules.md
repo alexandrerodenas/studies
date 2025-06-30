@@ -13,4 +13,5 @@
 - [Orthogonality](https://medium.com/@jasoncof/cohesion-and-coupling-principles-of-orthogonal-object-oriented-programming-9bf1eb92a2e5)
 - [Primitive Obsession](https://refactoring.guru/fr/smells/primitive-obsession)
 - [Factory Method / Template Method / Strategy](https://ancyracademy.fr/blog/factory-method)
+- [Dependency magnet + If/Else versus OCP](https://blog.cleancoder.com/uncle-bob/2021/03/06/ifElseSwitch.html)
 
